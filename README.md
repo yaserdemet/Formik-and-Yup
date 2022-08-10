@@ -4,7 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In this project i have used;
+
+- Material UI
+- 3rd part library (formik and yup)
 
 ### `yarn start`
 
