@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+##
+![Animation](https://user-images.githubusercontent.com/99739515/184498684-e816bd64-b6ac-48f2-9a8c-d1183b093c11.gif)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## [👉 check page here ](https://formik-and-yup-pi.vercel.app)
 
 ## Available Scripts
 
