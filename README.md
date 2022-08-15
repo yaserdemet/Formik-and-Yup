@@ -7,8 +7,12 @@
 
 In this project i have used;
 
-- Material UI
-- 3rd part library (formik and yup)
+✏  Material UI
+
+✏  3rd part library (formik and yup)
+
+✏  Regex
+
 
 ### `yarn start`
 
