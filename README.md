@@ -13,6 +13,8 @@ In this project i have used;
 
 ✏  Regex
 
+✏ Js buildin functions
+
 
 ### `yarn start`
 
